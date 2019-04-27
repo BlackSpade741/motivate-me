@@ -1,8 +1,6 @@
 # Motivate.Me
 Motivate.Me is a prototype mobile phone application designed to help young people and students stay active and keep working towards their fitness goals. This design project was developed at the University of Toronto as the course project for CSC318: The Design of Interactive Computational Media. 
 
-![](poster.png)
-
 ## Introduction
 
 Motivation for exercise is an issue experienced by many looking to live a healthier lifestyle. There are always intentions to become more fit, but the execution is often lacking. With Motivate.Me, we want to use the power of a mobile platform combined with gamification and social interactions in order to help users stay on track to achieve their fitness goals. Our target population is students and working adults who have trouble finding the time, or keeping being motivated to exercise. 
@@ -17,9 +15,21 @@ After the group was clear on the set of requirements, we individually designed l
 
 ## Where to Find Motivate.Me
 
-The final high-fidelity prototype is hosted at the following site:
+The original high-fidelity prototype is hosted at the following link:
+
+* https://docs.google.com/presentation/d/1WFVeBoEMzO0kO-w9ChfjHZxaoOKgELdQYkCEq4Rpdvc/edit?usp=sharing
+
+The iterated high-fidelity prototype is hosted at the following link:
+
+* https://docs.google.com/presentation/d/1fcKB2t3YkScqVQf0zx4t3D_mDxuVX9JvEDEfVU8PctI/edit?usp=sharing
+
+The final high-fidelity prototype is hosted at the following link:
 
 * https://pr.to/DEPB9M/
+
+## Poster
+
+![](poster.png)
 
 ## Group Members
 
